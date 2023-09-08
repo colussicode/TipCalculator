@@ -3,7 +3,10 @@ Tip Calculator is an Android Application that allows the user to calculate a tip
 
 ## :camera_flash: Screenshots
 
-|<img src="/assets/image1.png" width="260">&emsp;||<img src="/assets/image2.png" width="260">&emsp;|
+
+| Rounding tip                                     | Not rounding Tip                                 | 
+|--------------------------------------------------|--------------------------------------------------|
+| <img src="/assets/image1.png" width="260">&emsp; | <img src="/assets/image2.png" width="260">&emsp; |
 
 ## Stack
 * Kotlin
