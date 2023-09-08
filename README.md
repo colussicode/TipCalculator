@@ -3,4 +3,4 @@ Tip Calculator is an Android Application that contains some UI elements that all
 
 ## :camera_flash: Screenshots
 
-<img src="/assets/image1.png">
+<img src="/assets/image1.png" width="260">&emsp;
