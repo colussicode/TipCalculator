@@ -3,7 +3,7 @@ Tip Calculator is a small Android Application to learn more about Android UI Ele
 
 ## :camera_flash: Screenshots
 
-| Rounding tip                                     | Not rounding Tip                                 | 
+| Rounding Tip                                     | Not rounding Tip                                 | 
 |--------------------------------------------------|--------------------------------------------------|
 | <img src="/assets/image1.png" width="260">&emsp; | <img src="/assets/image2.png" width="260">&emsp; |
 
