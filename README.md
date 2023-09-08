@@ -1,8 +1,7 @@
 # Tip Calculator
-Tip Calculator is an Android Application that allows the user to calculate a tip.
+Tip Calculator is a small Android Application to learn more about Android UI Elements.
 
 ## :camera_flash: Screenshots
-
 
 | Rounding tip                                     | Not rounding Tip                                 | 
 |--------------------------------------------------|--------------------------------------------------|
@@ -23,8 +22,9 @@ Tip Calculator is an Android Application that allows the user to calculate a tip
 * Switch
 
 ## How to run the app
-- Gradle Version - 7.5
-- AGP Version - 7.4.2
+- Download Android Studio(Giraffe) -  [Android Studio Download](https://developer.android.com/studio)
+- Make sure your Gradle Version is 7.5 - [Upgrade instructions](https://docs.gradle.org/7.5/release-notes.html#upgrade-instructions)
+- Make sure your AGP Version is 7.4 - [Updating Gradle](https://developer.android.com/studio/releases/gradle-plugin?buildsystem=ndk-build&hl=pt-br#updating-gradle)
 
 ## Contact
-([LinkedIn](https://www.linkedin.com/in/joaocolussi/))
+[LinkedIn](https://www.linkedin.com/in/joaocolussi/)
