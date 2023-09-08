@@ -22,6 +22,7 @@ Tip Calculator is a small Android Application to learn more about Android UI Ele
 * Switch
 
 ## How to run the app
+- Clone the repository
 - Download Android Studio(Giraffe) -  [Android Studio Download](https://developer.android.com/studio)
 - Make sure your Gradle Version is 7.5 - [Upgrade instructions](https://docs.gradle.org/7.5/release-notes.html#upgrade-instructions)
 - Make sure your AGP Version is 7.4 - [Updating Gradle](https://developer.android.com/studio/releases/gradle-plugin?buildsystem=ndk-build&hl=pt-br#updating-gradle)
