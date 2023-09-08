@@ -19,7 +19,7 @@ Tip Calculator is an Android Application that allows the user to calculate a tip
 * Radio Group / Radio Button
 * Switch
 
-# How to run the app
+## How to run the app
 - Clone the repository
 - Sync the Gradle dependencies
 - Run the app
