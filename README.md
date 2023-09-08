@@ -23,4 +23,4 @@ Tip Calculator is an Android Application that allows the user to calculate a tip
 - Refactor the application using MVVM Architecture and LiveData or Flow.
 
 ## Author
-João Augusto Colussi Bonassa (Connect to me on [LinkedIn])(https://www.linkedin.com/in/joaocolussi/)
+João Augusto Colussi Bonassa (Connect to me on [LinkedIn](https://www.linkedin.com/in/joaocolussi/))
